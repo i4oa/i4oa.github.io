@@ -1,0 +1,119 @@
+body > div, body > footer, .copyright, .panel-title > a, h2 > small {
+    color: #0f353d !important;
+}
+
+.panel-body > p {
+    color: #1a5966 !important;
+} 
+
+footer {
+    background-color: #d4ded3 !important;
+}
+
+.navbar-default, .topnav, .navbar-collapse {
+    background-color: #154854 !important;
+}
+
+.iframegraph {
+    text-align: center !important;
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -50px;
+    visibility: hidden;
+}
+
+a.navlink {
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+}
+
+blockquote, q {
+    font-style: italic !important;
+}
+
+.logo img {
+    height:70px;
+}
+
+.iframegraph {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 1049px;
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+@media (min-width: 768px) {
+  p {
+    font-size: 21px;
+  }
+}
+
+@media (max-width: 990px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+}
+
+a, code {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+/* Added for visualising the table correctly */
+#partpublishers {
+    font-weight:normal !important;
+}
+
+#partpublishers th {
+    text-align: center;
+    border: 0px;
+}
+
+#partpublishers td {
+    border: 0px;
+    vertical-align: middle;
+}

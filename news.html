@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="FAQs - The Initiative for Open Abstracts (I4OA)">
+        <meta name="author" content="I4OA">
+
+        <title>News - The Initiative for Open Abstracts (I4OA)</title>
+        <link rel="icon" href="img/favicon.ico">
+
+        <!-- Bootstrap Core CSS -->
+        <link href="css/bootstrap.css" rel="stylesheet">
+
+        <!-- Custom CSS -->
+        <!-- TODO: fix colors and logo -->
+        <link href="css/main.css" rel="stylesheet">
+        <link href="css/c.css" rel="stylesheet">
+
+        <!-- Custom Fonts -->
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	    <link href="https://fonts.googleapis.com/css?family=Fira+Mono:400" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">
+
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+    </head>
+    
+    <body class="press-release">
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+            <div class="container topnav">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand topnav" href="/" style="padding: 0px"><img src="img/logo.png" style="height: 60px;" /></a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a class="navlink" href="/#about">About</a>
+                        </li>
+                        <li>
+                            <a class="navlink" href="/#openabstracts">Open abstracts</a>
+                        </li>
+                        <li>
+                            <a class="navlink" href="/#publishers">Publishers</a>
+                        </li>
+                        <li>
+                            <a class="navlink" href="/#crossref">Crossref</a>
+                        </li>
+                        <li>
+                            <a class="navlink" href="/#stakeholders">Stakeholders</a>
+                        </li>
+                        <li>
+                            <a class="navlink" href="/#founders">Founders</a>
+                        </li>
+                        <li>
+                            <a  class="navlink" href="faqs.html">FAQ</a>
+                        </li>
+                        <li>
+                            <a class="navlink" href="news.html">News</a>
+                        </li>
+                        <li>
+                            <a class="navlink" href="press.html">Press</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
+
+        <div class="intro-header">
+            <div class="container">
+				<!-- Top row -->
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="intro-message">
+							<h1 id="news">News</h1>
+							<div class="contentWell light">
+								<h2>Talks and events</h2>
+								<ul>
+									<li><p>Taylor, S. (24 September 2020). Introducing the Initiative for Open Abstracts. <a href="https://oaspa.org/oaspa-2020-conference-program/"><em>OASPA Online Conference on Open Access Scholarly Publishing 2020</em></a>. (<a href="XXX">poster</a>)</p></li>
+								</ul>
+							</div><!-- /.contentWell -->
+						</div><!-- /.intro-message -->
+					</div>
+						<!-- /.col-lg-12 -->
+				</div>
+				<!-- /.row -->
+				<!-- /Top row -->
+			</div>
+			<!-- /.container -->
+		</div>
+
+
+		<a class="anchor" id="contact"></a>
+        <footer role="banner">
+            <div class="container">
+                <div>
+                    <h2>Contact</h2>
+                    <a href="mailto:openabstracts@gmail.com" class="btn btn-default btn-lg btn-quiet"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">openabstracts@gmail.com</span></a> &nbsp;
+                    <a href="https://twitter.com/open_abstracts" class="btn btn-default btn-lg btn-quiet"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">@open_abstracts</span></a>
+                </div>
+
+                <div>
+                    <p class="copyright text-muted small">
+                        The text of this web site is published under a <a target="_blank" rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 Public Domain Dedication</a>. However, the logos displayed are trademarks or registered trademarks of their respective organizations and may not be reused or reproduced without permission.
+                    </p>
+                </div>
+            </div>
+        </footer>
+<!-- /.banner -->
+<!-- Footer -->
+
+
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+<script type="application/javascript">
+$(".panel").on("show.bs.collapse hide.bs.collapse", function(e) {
+    if (e.type=='show'){
+      $(this).addClass('active');
+    }else{
+      $(this).removeClass('active');
+    }
+  });
+
+$(".faq1").click(function(){
+    $(".collapse").removeClass('in');
+    $(".panel").removeClass('active');
+    $("#collapseOne").parent().addClass('active');
+    $("#collapseOne").addClass('in');
+    $("#collapseOne").removeAttr("style");
+    $('html, body').animate({
+        scrollTop: $("#collapseOne").offset().top - 120
+    }, 500);
+})
+</script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
