@@ -1,6 +1,7 @@
 "Member Name & ID"
 "American Association for the Advancement of Science (AAAS)"
 "American Mathematical Society (AMS)"
+"American Society for Microbiology"
 "Beilstein-Institut"
 "Berghahn Books"
 "BMJ"
