@@ -45,6 +45,7 @@
 "SAGE"
 "Schloss Dagstuhl - Leibniz Center for Informatics (LZI)"
 "SciPost"
+"Society for Promotion of Horticulture"
 "The Company of Biologists"
 "The Royal Society"
 "Thomas Telford (Institution of Civil Engineers)"
