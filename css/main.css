@@ -318,15 +318,19 @@ h1 span.style-italics  {
 .row.stakeholderBrand > div a img {
     width: 100%;
     height: auto;
+    /*
     -webkit-filter: grayscale(1);
     filter: grayscale(1);
+    */
 }
 
 .row.stakeholderBrand > div a:hover img {
     width: 100%;
     height: auto;
+    /*
     -webkit-filter: grayscale(0);
     filter: grayscale(0);    
+    */
 }
 
 .panel-default.panel-faq {
