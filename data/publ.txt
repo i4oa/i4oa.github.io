@@ -1,4 +1,5 @@
 "Member Name & ID"
+"AfricArXiv"
 "American Association for the Advancement of Science (AAAS)"
 "American Mathematical Society (AMS)"
 "American Society for Microbiology (ASM)"
@@ -37,6 +38,7 @@
 "Poltekkes Kemenkes Kendari"
 "Portland Press (Biochemical Society)"
 "Proceedings of the National Academy of Sciences (PNAS)"
+"protocols.io"
 "Public Library of Science (PLOS)"
 "Rockefeller University Press"
 "Royal College of General Practitioners"
