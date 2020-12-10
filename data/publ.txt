@@ -43,6 +43,7 @@
 "National Electronic Information Consortium (NEICON)"
 "Open Book Publishers"
 "Open Exploration Publishing"
+"Oxford University Press"
 "PeerJ"
 "Poltekkes Kemenkes Kendari"
 "Portland Press (Biochemical Society)"
