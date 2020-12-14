@@ -31,6 +31,7 @@
 "Institute of Higher Education of the National Academy of Educational Sciences of Ukraine"
 "Instituto Colombiano de Antropologia e Historia (ICANH)"
 "IntechOpen"
+"Intellect"
 "International Center for Transactional Analysis Qualifications (ICTAQ)"
 "International Union of Crystallography (IUCr)"
 "IWA Publishing"
