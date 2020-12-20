@@ -73,4 +73,5 @@
 "University of Buckingham Press"
 "University of Technology, Sydney (UTS) ePress"
 "Vilnius University Press"
+"Virtus Interpress"
 "Walter de Gruyter"
