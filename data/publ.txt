@@ -1,6 +1,6 @@
 "Member Name & ID"
 "AfricArXiv"
-"ll-Russian Institute of Plant Protection"
+"All-Russian Institute of Plant Protection"
 "American Association for the Advancement of Science (AAAS)"
 "American Mathematical Society (AMS)"
 "American Society for Microbiology (ASM)"
