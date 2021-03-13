@@ -40,6 +40,7 @@
 "IWA Publishing"
 "John Benjamins Publishing Company"
 "Karger Publishers"
+"Knowledge E"
 "Leibniz-Institute for Psychology Information (ZPID)"
 "Life Science Alliance"
 "MDPI"
