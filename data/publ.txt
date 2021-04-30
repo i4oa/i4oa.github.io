@@ -1,4 +1,5 @@
 "Member Name & ID"
+"Academicus Journal"
 "AfricArXiv"
 "All-Russian Institute of Plant Protection"
 "American Association for the Advancement of Science (AAAS)"
