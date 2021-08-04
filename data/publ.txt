@@ -42,6 +42,7 @@
 "International Union of Crystallography (IUCr)"
 "IWA Publishing"
 "John Benjamins Publishing Company"
+"Journal of Pure and Applied Microbiology"
 "Karger Publishers"
 "Knowledge E"
 "Leibniz-Institute for Psychology Information (ZPID)"
