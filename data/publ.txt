@@ -45,6 +45,7 @@
 "International Center for Transactional Analysis Qualifications (ICTAQ)"
 "International Union of Crystallography (IUCr)"
 "IOP Publishing"
+"IP Innovative Publication"
 "IWA Publishing"
 "John Benjamins Publishing Company"
 "Journal of Pure and Applied Microbiology"
