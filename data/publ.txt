@@ -2,6 +2,7 @@
 "Academicus Journal"
 "Action for Sustainable Efficacious Development and Awareness"
 "AfricArXiv"
+"AIP Publishing"
 "All-Russian Institute of Plant Protection"
 "American Association for the Advancement of Science (AAAS)"
 "American Mathematical Society (AMS)"
