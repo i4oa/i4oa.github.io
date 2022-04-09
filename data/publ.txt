@@ -46,6 +46,7 @@
 "IntechOpen"
 "Intellect"
 "International Center for Transactional Analysis Qualifications (ICTAQ)"
+"International Research Journal of Ayurveda & Yoga"
 "International Union of Crystallography (IUCr)"
 "IOP Publishing"
 "IP Innovative Publication"
