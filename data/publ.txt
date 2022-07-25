@@ -11,6 +11,7 @@
 "Applied and Natural Science Foundation"
 "Association for Computing Machinery (ACM)"
 "Association of Austrian Librarians"
+"Avanti Publishers"
 "Beilstein-Institut"
 "Bentham Science"
 "Berghahn Books"
