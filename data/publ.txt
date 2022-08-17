@@ -34,6 +34,7 @@
 "EMBO Press"
 "Emerald"
 "EMS Press"
+"ERUDITUS"
 "European Journal of Chemistry"
 "European Respiratory Society (ERS)"
 "F1000"
