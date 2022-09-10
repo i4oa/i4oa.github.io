@@ -71,6 +71,7 @@
 "Proceedings of the National Academy of Sciences (PNAS)"
 "protocols.io"
 "Public Library of Science (PLOS)"
+"QTanalytics India"
 "Rockefeller University Press"
 "Royal College of General Practitioners"
 "Royal College of Psychiatrists"
