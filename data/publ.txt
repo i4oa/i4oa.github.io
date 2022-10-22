@@ -78,6 +78,7 @@
 "RS Global Sp. z O.O."
 "RTI Press"
 "SAGE"
+"Salud, Ciencia y Tecnología"
 "Schloss Dagstuhl - Leibniz Center for Informatics (LZI)"
 "SciPost"
 "Society for Promotion of Horticulture"
