@@ -98,4 +98,5 @@
 "Vilnius University Press"
 "Virtus Interpress"
 "Walter de Gruyter"
+"Wiley"
 "Ziauddin University"
