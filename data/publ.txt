@@ -51,6 +51,7 @@
 "International Research Journal of Ayurveda & Yoga"
 "International Union of Crystallography (IUCr)"
 "IOP Publishing"
+"IOS Press"
 "IP Innovative Publication"
 "IWA Publishing"
 "John Benjamins Publishing Company"
