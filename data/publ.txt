@@ -65,7 +65,7 @@
 "National Electronic Information Consortium (NEICON)"
 "Open Book Publishers"
 "Open Exploration Publishing"
-"Optica Publishing Group"
+"Optica Publishing Group (formerly OSA)"
 "Oxford University Press"
 "PeerJ"
 "Poltekkes Kemenkes Kendari"
