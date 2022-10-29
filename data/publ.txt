@@ -83,6 +83,7 @@
 "SAGE"
 "Salud, Ciencia y Tecnología"
 "Schloss Dagstuhl - Leibniz Center for Informatics (LZI)"
+"Scientific Advanced Learning Technologies Trust"
 "SciPost"
 "Society for Promotion of Horticulture"
 "The Company of Biologists"
