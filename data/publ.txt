@@ -83,6 +83,7 @@
 "RTI Press"
 "SAGE"
 "Salud, Ciencia y Tecnología"
+"Sapienza: International Journal of Interdisciplinary Studies"
 "Schloss Dagstuhl - Leibniz Center for Informatics (LZI)"
 "Scientific Advanced Learning Technologies Trust"
 "SciPost"
