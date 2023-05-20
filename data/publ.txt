@@ -29,6 +29,7 @@
 "Council for British Archaeology (CBA)"
 "CSMFL Publications"
 "Edimeco"
+"Editora IFMA"
 "Editorial Espacios (Venezuela)"
 "EDP Sciences"
 "eLife"
