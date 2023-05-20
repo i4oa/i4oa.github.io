@@ -12,6 +12,7 @@
 "Association for Computing Machinery (ACM)"
 "Association of Austrian Librarians"
 "Avanti Publishers"
+"Avicenna Tajik State Medical University"
 "Beilstein-Institut"
 "Bentham Science"
 "Berghahn Books"
