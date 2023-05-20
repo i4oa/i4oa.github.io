@@ -88,6 +88,7 @@
 "Schloss Dagstuhl - Leibniz Center for Informatics (LZI)"
 "Scientific Advanced Learning Technologies Trust"
 "SciPost"
+"SLACK, Inc."
 "Society for Promotion of Horticulture"
 "The Company of Biologists"
 "The Royal Society"
