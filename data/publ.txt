@@ -63,7 +63,7 @@
 "Journal of Pure and Applied Microbiology"
 "Karger Publishers"
 "Knowledge E"
-"Leibniz-Institute for Psychology Information (ZPID)"
+"Leibniz Institute for Psychology (ZPID)"
 "Life Science Alliance"
 "MDPI"
 "MIT Press"
