@@ -79,6 +79,7 @@
 "protocols.io"
 "Public Library of Science (PLOS)"
 "QTanalytics India"
+"RCVS Knowledge"
 "Rockefeller University Press"
 "Royal College of General Practitioners"
 "Royal College of Psychiatrists"
